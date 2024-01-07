@@ -17,6 +17,8 @@
 - [x] MongoDB
 - [x] Node.js
 - [x] Next.js
+- [x] Django
+- [x] Django REST framework
 - [ ] Flutter
 
 ## Connect with me : <a href="https://www.linkedin.com/in/neelam-aryaa/"><img src="https://raw.githubusercontent.com/NeelamAryaa/NeelamAryaa/main/linkedin.svg" alt="Neelam Aryaa | LinkedIn" width="30px" /></a>
